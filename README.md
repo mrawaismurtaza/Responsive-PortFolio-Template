@@ -16,8 +16,9 @@ Welcome to the Responsive Bootstrap and Animated Portfolio Template! This templa
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: https://mrawaismurtaza.github.io/Responsive-PortFolio-Template/
 2. Open the project directory:
+   https://mrawaismurtaza.github.io/Responsive-PortFolio-Template/
    
 ## Usage
 
